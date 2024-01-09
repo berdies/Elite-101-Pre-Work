@@ -1,1 +1,1 @@
-print('super static fever')
+print('fizzbuzz')
