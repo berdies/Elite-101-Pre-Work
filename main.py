@@ -15,10 +15,3 @@ def display_menu():
   print('2. What is your favorite food?')
   print('3. What is your favorite movie?')
   print('4. Exit')
-
-
-
-
-
-
-  
